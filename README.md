@@ -1,2 +1,3 @@
-# contracts-monorepo-deltafi
-DeltaFi Smart Contracts
+# DeltaFi Smart Contracts
+
+This is the monorepo with all DeltaFi smart contracts.
