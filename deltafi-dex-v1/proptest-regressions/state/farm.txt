@@ -1,0 +1,2 @@
+cc 828bab09205feade9c1eb48a3949b76184fa04d4042a41579c65eb546c583b33 # shrinks to (liquidity_amount, rewards_rate, period_number) = (0, 1000, 1)
+cc 9097fb0aff3950d6f48ee2a1c07ed79a57b2f5b3a51f9027e39a8f281e3cd213 # shrinks to (deposited_amount, apr, period_number) = (2172374000000, 99, 1)

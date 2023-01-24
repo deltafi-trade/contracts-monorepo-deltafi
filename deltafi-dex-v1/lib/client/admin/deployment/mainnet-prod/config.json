@@ -1,0 +1,116 @@
+{
+  "network": "mainnet-beta",
+  "adminKeyName": "mainnet-prod-admin",
+  "payerKeyName": "mainnet-prod-payer",
+  "deltafiMint": "de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF",
+  "swapProgramId": "3gaAmJzWkXfkVWK1Q7BcWBE5KJtU4mtG9mQ7aGBSSp3X",
+  "fees": {
+    "adminTradeFeeNumerator": 1,
+    "adminTradeFeeDenominator": 1,
+    "adminWithdrawFeeNumerator": 1,
+    "adminWithdrawFeeDenominator": 1,
+    "tradeFeeNumerator": 1,
+    "tradeFeeDenominator": 1000,
+    "withdrawFeeNumerator": 1,
+    "withdrawFeeDenominator": 1000
+  },
+  "swapPools": [
+    {
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "USDC",
+      "name": "SOL-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "SRM",
+      "name": "SOL-SRM",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "SRM",
+      "tokenB": "USDC",
+      "name": "SRM-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "LUNA",
+      "tokenB": "USDC",
+      "name": "LUNA-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "USDC",
+      "tokenB": "ETH",
+      "name": "ETH-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "USDC",
+      "tokenB": "mSOL",
+      "name": "mSOL-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "USDC",
+      "tokenB": "stSOL",
+      "name": "stSOL-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "USDC",
+      "tokenB": "BTC",
+      "name": "BTC-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "USDC",
+      "tokenB": "soFTT",
+      "name": "soFTT-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "UST",
+      "tokenB": "SOL",
+      "name": "SOL-UST",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "UST",
+      "tokenB": "ETH",
+      "name": "ETH-UST",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "UST",
+      "tokenB": "BTC",
+      "name": "BTC-UST",
+      "oraclePriority": "PYTH_ONLY"
+    }
+  ],
+  "stableSwapPools": [
+    {
+      "slope": "100000000",
+      "tokenA": "USDC",
+      "tokenB": "USDT",
+      "name": "USDC-USDT",
+      "oraclePriority": "PYTH_ONLY"
+    }
+  ]
+}

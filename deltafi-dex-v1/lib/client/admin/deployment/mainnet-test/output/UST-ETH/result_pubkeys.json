@@ -1,0 +1,17 @@
+{
+  "config": "5fb9KKiX4unmeq2F2ZjvNahc38AALL7dDQuPanDNKRt1",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "deltafiToken": "Cajir4DbVH8Gyj8E9EjuvxmrZj9ihZYVYZJ7RNH5uBQs",
+  "network": "mainnet-beta",
+  "adminFeeA": "37cBeZfhiSbmv4PtVeaYHSrfJEqtXEVu1UjpZXH4sQmn",
+  "adminFeeB": "Dr7ZGtDNNPeP5oygLR8pzeGHJqhqhW6egXRWTYvVmJU3",
+  "pool_UST-ETH_UST": "B4jp55RuHb43CXQW1aUG7JP6rDm8id67sSMgRKdfAfmJ",
+  "pool_UST-ETH_ETH": "Euw7H4ToNDT5QWRRU3N7AZkVvKdaP13hauf4RDdRg16p",
+  "pool_UST-ETH_authority": "zdnFMYRzjUZ3VFTgVLEpedKxTHBji2J82tKszEeCndh",
+  "pool_UST-ETH_swap": "Dn7eJ6tk2fivydxRBi5eLz6ZoUjVLCJx3iEBcDrZKC5i",
+  "pool_UST-ETH_mint": "DwuSmdct2xCAzHSzW1vKq7qR6kdUw2SA6JPpWL4Kf82C",
+  "pool_UST-ETH_token": "2KHfs1ViLj4aZPBmnYWK348AHLF68yfELnsNK8wiZ7gA",
+  "pool_UST-ETH_decimals": 6,
+  "farm_pool_UST-ETH": "EtL4MidKWM2DaN9Lce4oSh36GiScZveR1VGymbEtj5cm",
+  "farm_pool_UST-ETH_reserve_token": "4RZiC47ispTqZN4EB9iUQrdJ7tuFR12zGzCA3Yw9SXRA"
+}

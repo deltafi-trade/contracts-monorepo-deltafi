@@ -1,0 +1,21 @@
+{
+  "config": "HfvhR1B9E5BUxxk2jWuXz4SkRBhnnwDMdPhWWNxYmFfU",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "deltafiToken": "9pYEVHb2ZhJ7oQi93XSjXTyLyfHn6S9e7nMxhzkK34C9",
+  "network": "mainnet-beta",
+  "adminFeeA": "S3cpqxkPpwGFF5g6HLAcYyQUQNfFjQkrop65jHLz1Jv",
+  "adminFeeB": "HZ4vtCXqTsnuu8eX7mNBmzzows8WmQRFDgWzPtj71RKT",
+  "oraclePriority": "SERUM_ONLY",
+  "pool_soLINK-USDT_soLINK": "GZd1mHxUSGRTUzqmwqLMRjqzQNMzSAdX7BWhGw6wtKUo",
+  "pool_soLINK-USDT_USDT": "CqavUZxd1pA7TyC4tjaHw5fe7i5wvmuX4iNHNkTT369Y",
+  "pool_soLINK-USDT_authority": "GttdPBf1vMmDXNkmLYdsjJ1bzbkToCJ92DeSq7JuHaB2",
+  "pool_soLINK-USDT_swap": "DR6iYsvZBUiURxMm1zw8srcB48fEwXChjsLdMdRgC1gy",
+  "pool_soLINK-USDT_mint": "C4cMRMryUZHGtFHXsS2TeVMr24niq3R1onsinZ4cb4Jt",
+  "pool_soLINK-USDT_token": "8jJrXPJ5SzVVSQKiZ3LscFMdQfDPnQYW9rkeLbenrgLz",
+  "pool_soLINK-USDT_decimals": 6,
+  "serumMarket": "3yEZ9ZpXSQapmKjLAGKZEzUNA1rcupJtsDp5mPBWmGZR",
+  "serumBids": "9fkA2oJQ7BKP5n2WxdLkY7mDA1mzBrGZ9osqVhvdBkH7",
+  "serumAsks": "G8c3xQURJk1oukLqJd3W4SJykmRq4wq3GrSWJwWipECH",
+  "farm_pool_soLINK-USDT": "o2qLefTkJKtWLmKirWKpgFd4ceUxVNGtwLJgQRaTB5w",
+  "farm_pool_soLINK-USDT_reserve_token": "9qzb7weNRT34zj57DPjzAfMKtWdroWMQJwtBB47R3Arr"
+}

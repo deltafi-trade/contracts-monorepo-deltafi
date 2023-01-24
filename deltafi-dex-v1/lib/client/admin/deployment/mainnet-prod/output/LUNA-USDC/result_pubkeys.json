@@ -1,0 +1,15 @@
+{
+  "config": "5hwGxMpQkoAx21aoAvafT3NmAGk1iZTorjoQz3j2SKk6",
+  "deltafiMint": "de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF",
+  "deltafiToken": "J6NXoLLUwywpeDhSVbD2bawigPEmBGczgNq3dTAkA4fu",
+  "network": "mainnet-beta",
+  "pool_LUNA-USDC_LUNA": "2Ck9kEm63tPMNeMjfS9WWCcLVsf7AQCjwjgFrt9i7rWo",
+  "pool_LUNA-USDC_USDC": "AsLvSMrcKpC28JVSgw6WEWvmvvtk83LBUQFs5Hswh8Ht",
+  "pool_LUNA-USDC_authority": "4sWGaQvyaxS8ibyGRenDR7nWp9wXkaGddQMDWwNdFHWY",
+  "pool_LUNA-USDC_swap": "4AJSHReHbC5VKYuXwvoQCUamPThjwtxcLQr37Sw3ATXf",
+  "pool_LUNA-USDC_mint": "3AMgSMCx1yGbai3zgTrhi7Fn2FHWtwaB3fBkXyniY1vb",
+  "pool_LUNA-USDC_token": "JCo69Qc24zuGwas5SH8i4cpJsUDgZSMLACAwTzY3t8Nv",
+  "pool_LUNA-USDC_decimals": 6,
+  "farm_pool_LUNA-USDC": "Hx1KJHUTko7Mf2ND1oifLPxk3CUAKdbVuhBfCapZqmuk",
+  "farm_pool_LUNA-USDC_reserve_token": "J92dU5eMHWuHbwFQEaZyibSy4uEMYZNgBZu2yYmsDbxg"
+}

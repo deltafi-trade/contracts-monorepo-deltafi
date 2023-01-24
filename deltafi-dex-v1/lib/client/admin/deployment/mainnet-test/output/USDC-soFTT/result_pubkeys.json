@@ -1,0 +1,17 @@
+{
+  "config": "5fb9KKiX4unmeq2F2ZjvNahc38AALL7dDQuPanDNKRt1",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "deltafiToken": "Cajir4DbVH8Gyj8E9EjuvxmrZj9ihZYVYZJ7RNH5uBQs",
+  "network": "mainnet-beta",
+  "adminFeeA": "DVYCXUEBduC3seSftUaZuTQx5ePw7M6B7zPLcsX4pDYi",
+  "adminFeeB": "8AJyLQzQJzjXJmgZUh5Sti5ErUBXPmr4UXzGdfz4FBKr",
+  "pool_USDC-soFTT_USDC": "Cocz2HuH64p7ZuZLrRq7qRLFUSixG36UCzGqFQkomyLR",
+  "pool_USDC-soFTT_soFTT": "5ARapFwU1r4QrgMwc2xmW1tYu1LmsjmdwEtQjeZTbgB",
+  "pool_USDC-soFTT_authority": "G1zinK81CLiVfMwWSDEXQeqz7pFEtKbsLo7TdtkGpYHs",
+  "pool_USDC-soFTT_swap": "4qXsTeG94E5zxXfBcRPfq4g8jU9N6JTLzApVzna92Z9J",
+  "pool_USDC-soFTT_mint": "E7RFqQRGg8VZJuvcVsNu9UqTgFxkStrvCZZHJ3H6KxNP",
+  "pool_USDC-soFTT_token": "6SdscKHaaYAd1xsmrcVGJYQ58ZDEdWLzun1wcdvvDGts",
+  "pool_USDC-soFTT_decimals": 6,
+  "farm_pool_USDC-soFTT": "BtuQEGR5SaR6psm8zVD5qzxiBSi9jMeTbLZpanq8Bpmn",
+  "farm_pool_USDC-soFTT_reserve_token": "74vPFGRFcK5cMHAcdqySb2cQJpghWmXg15SJ2Y7Tw72j"
+}

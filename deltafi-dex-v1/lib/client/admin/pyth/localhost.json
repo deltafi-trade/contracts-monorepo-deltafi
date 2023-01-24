@@ -1,0 +1,26 @@
+[
+  {
+    "productName": "Crypto.USDC/USD",
+    "fixedUsdPrice": 1,
+    "price": "GBvYgUMCt4nvycUZMEBpHyLEXGbKjr6G9HjMjmLyf6mA",
+    "product": "HrZuzZTtEZ55A5t3FAvXJ1nPdGDR1mQJDwmPQdVk5NHp"
+  },
+  {
+    "productName": "Crypto.USDT/USD",
+    "fixedUsdPrice": 1,
+    "price": "GBvYgUMCt4nvycUZMEBpHyLEXGbKjr6G9HjMjmLyf6mA",
+    "product": "HrZuzZTtEZ55A5t3FAvXJ1nPdGDR1mQJDwmPQdVk5NHp"
+  },
+  {
+    "productName": "Crypto.SOL/USD",
+    "fixedUsdPrice": 87,
+    "price": "7VJsBtJzgTftYzEeooSDYyjKXvYRWJHdwvbwfBvTg9K",
+    "product": "GcnU8V2WKq5QXLhJwBQdt2ankU6GRGh6b1bLCxdykWnP"
+  },
+  {
+    "productName": "Crypto.SRM/USD",
+    "fixedUsdPrice": 2,
+    "price": "74Bak9eMFPvDLHcnjCpvDWvBSGNd8sCThVe3WmDf7sZW",
+    "product": "GjAC9vA72i6UfJwwgmCBCU9B4Easmmd5wTKe48F3kfYA"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "config": "5fb9KKiX4unmeq2F2ZjvNahc38AALL7dDQuPanDNKRt1",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "deltafiToken": "Cajir4DbVH8Gyj8E9EjuvxmrZj9ihZYVYZJ7RNH5uBQs",
+  "network": "mainnet-beta",
+  "adminFeeA": "DVYCXUEBduC3seSftUaZuTQx5ePw7M6B7zPLcsX4pDYi",
+  "adminFeeB": "DJw3suRWw4vhqAzA88nnKz1U9wfz7tx3Xwu7kHQUnnRD",
+  "pool_USDC-BTC_USDC": "55wBY8NMRG4gVLy5WhTRiREYCgyQ98MANK6Hi3vaRiCK",
+  "pool_USDC-BTC_BTC": "AyQvQBYLsHeCQ2bXBrXQNGe4sKXXLtVbumLE2bRAMJpg",
+  "pool_USDC-BTC_authority": "ASXrJ928ZHBqZh1dDgGJfxFL1G2LMt9betpHe69tjt3G",
+  "pool_USDC-BTC_swap": "GHFaCjfv5xdRfVvb7hgHikQL8bzLrTTF7tVTUrduUwTc",
+  "pool_USDC-BTC_mint": "25aDuiGRJguqtBkHFzd6FnMJ5zYRMUZVjjNtqWATTebg",
+  "pool_USDC-BTC_token": "3GzDQVABsZtBQABCW7fuBweBSjAA41sdCCkWfN17d5Fc",
+  "pool_USDC-BTC_decimals": 6,
+  "farm_pool_USDC-BTC": "DNUPxzxEJvREPYWojP1U9nzaZS6gb15DVKG82h9Gd6ft",
+  "farm_pool_USDC-BTC_reserve_token": "FKR1NBvcUZJYKxbyUF1iztMCZmFLuzo4k6qBmydKvri7"
+}

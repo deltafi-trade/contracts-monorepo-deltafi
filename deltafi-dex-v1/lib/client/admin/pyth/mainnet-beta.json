@@ -1,0 +1,57 @@
+[
+  {
+    "productName": "Crypto.USDC/USD",
+    "price": "Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD",
+    "product": "8GWTTbNiXdmyZREXbjsZBmCRuzdPrW55dnZGDkTRjWvb"
+  },
+  {
+    "productName": "Crypto.SOL/USD",
+    "price": "H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG",
+    "product": "ALP8SdU9oARYVLgLR7LrqMNCYBnhtnQz1cj6bwgwQmgj"
+  },
+  {
+    "productName": "Crypto.SRM/USD",
+    "price": "3NBReDRTLKMQEKiLD5tGcx4kXbTf88b7f2xLS9UuGjym",
+    "product": "6T1eJbKWyhZXEjmuBej9gPk3SRTagzrEQovCSwAWD57P"
+  },
+  {
+    "productName": "Crypto.USDT/USD",
+    "price": "3vxLXJqLqF3JG5TCbYycbKWRBbCJQLxQmBGCkyqEEefL",
+    "product": "Av6XyAMJnyi68FdsKSPYgzfXGjYrrt6jcAMwtvzLCqaM"
+  },
+  {
+    "productName": "Crypto.ETH/USD",
+    "price": "JBu1AL4obBcCMqKBBxhpWCNUt136ijcuMZLFvTP7iWdB",
+    "product": "EMkxjGC1CQ7JLiutDbfYb7UKb3zm9SJcUmr1YicBsdpZ"
+  },
+  {
+    "productName": "Crypto.LUNA/USD",
+    "price": "5bmWuR1dgP4avtGYMNKLuxumZTVKGgoN2BCMXWDNL9nY",
+    "product": "2Lg3b2UdD4hzrxHpcwhgShuUdccTKFoo2doAUZawEdPH"
+  },
+  {
+    "productName": "Crypto.STSOL/USD",
+    "price": "Bt1hEbY62aMriY1SyQqbeZbm8VmSbQVGBFzSzMuVNWzN",
+    "product": "9mpaSy5ocwPvoaxWZc4S8MhUUeUKmmFqymBJTfY6CJ6o"
+  },
+  {
+    "productName": "Crypto.MSOL/USD",
+    "price": "E4v1BBgoso9s64TQvmyownAVJbhbEPGyzA3qn4n46qj9",
+    "product": "BS2iAqT67j8hA9Jji4B8UpL3Nfw9kwPfU5s4qeaf1e7r"
+  },
+  {
+    "productName": "Crypto.BTC/USD",
+    "price": "GVXRSBjFk6e6J3NbVPXohDJetcTjaeeuykUpbQF8UoMU",
+    "product": "4aDoSXJ5o3AuvL7QFeR6h44jALQfTmUUCTVGDD6aoJTM"
+  },
+  {
+    "productName": "Crypto.FTT/USD",
+    "price": "8JPJJkmDScpcNmBRKGZuPuG2GYAveQgP3t5gFuMymwvF",
+    "product": "E7ymZgACaSd1fYLf2V7WkAmFkpRiWfAjm49R7bceny9K"
+  },
+  {
+    "productName": "Crypto.UST/USD",
+    "price": "H8DvrfSaRfUyP1Ytse1exGf7VSinLWtmKNNaBhA4as9P",
+    "product": "5ZJ49jAYEGLfxDkcErM4AtP3tJbjSbJJtxmsp7Lybf29"
+  }
+]
