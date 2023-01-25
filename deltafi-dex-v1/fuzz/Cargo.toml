@@ -1,0 +1,26 @@
+[package]
+name = "deltafi-swap-fuzz"
+version = "0.0.1"
+description = "Deltafi token swap program Fuzzer"
+authors = ["Solana Maintainers <maintainers@deltafi.ai>"]
+repository = "https://github.com/delta-fi/deltafi-contracts"
+edition = "2021"
+publish = false
+
+[features]
+no-entrypoint = []
+test-bpf = []
+
+[dependencies]
+honggfuzz = { version = "0.5.54" }
+arbitrary = { version = "1.0", features = ["derive"] }
+solana-program = "1.9.2"
+spl-math = { version = "0.1", features = [ "no-entrypoint" ] }
+spl-token = { version = "3.2", features = [ "no-entrypoint" ] }
+deltafi-swap = { path = "..", features = ["fuzz", "no-entrypoint"] }
+
+[[bin]]
+name = "deltafi-swap-fuzz-farm"
+path = "src/fuzz-farm-instructions.rs"
+test = false
+doc = false

@@ -1,0 +1,8 @@
+node_modules
+
+docs
+lib
+
+.DS_Store
+
+ci

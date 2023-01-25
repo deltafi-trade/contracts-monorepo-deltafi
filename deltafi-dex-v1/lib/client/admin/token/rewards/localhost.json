@@ -1,0 +1,54 @@
+[
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 1,
+      "aprDenominator": 500
+    },
+    "symbol": "USDC"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 1,
+      "aprDenominator": 500000
+    },
+    "symbol": "USDT"
+  },
+  {
+    "rewards": {
+      "decimals": 9,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 1,
+      "aprDenominator": 500
+    },
+    "symbol": "SOL"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 1,
+      "aprDenominator": 500
+    },
+    "symbol": "SRM"
+  }
+]

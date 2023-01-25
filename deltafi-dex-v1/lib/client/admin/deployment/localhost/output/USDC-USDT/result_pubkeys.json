@@ -1,0 +1,14 @@
+{
+  "config": "57pCgFkJVdkeHACWkz61kwBibcTct2NkCKcTiQaqgFqq",
+  "deltafiMint": "9zuKduFQR75Qv2YBea9cVufpqUAXSwq3vHiSeDUhF6XR",
+  "deltafiToken": "3Xy1hdxWXrzXf9P7Nt2RR6P1ufN2JbisLmwAL22Tkgpf",
+  "network": "localhost",
+  "pool_USDC-USDT_USDC": "AqPuxejoNYTQWhN8GyVZGUS3V9FpSEGfS87RmxrADsip",
+  "pool_USDC-USDT_USDT": "FWinBKMmeAeB7FXhQY98FQ4BJwMEiAaWDPZRVQi6GkGv",
+  "pool_USDC-USDT_authority": "6WaDd46tukJ4JxAZHEUGyRBpV5UMt17yekYTN7Ue7nXj",
+  "pool_USDC-USDT_swap": "9JsqWqVmV27JiuhUTDoyKTakXQf7Um66scvagrKY7dAG",
+  "pool_USDC-USDT_mint": "ALKdFskns6zYYDkbRX8MJyRW2FtbEDgYreGFGfRNdUEs",
+  "pool_USDC-USDT_token": "2izFgmBTTdBsrqkpxoQX55Caw3yHTy513KWdDSstBWGo",
+  "farm_pool_USDC-USDT": "CVZtj1kUya68WAPJfUCruqYn5f8WjqSyK2Qbj2DUEiUk",
+  "farm_pool_USDC-USDT_reserve_token": "7AeeYDKz12QDmHY5pmiHfrgykfSM8JZrGhXDwiQwEtZ3"
+}

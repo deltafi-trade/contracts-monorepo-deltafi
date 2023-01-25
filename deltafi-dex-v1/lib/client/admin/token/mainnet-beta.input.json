@@ -1,0 +1,46 @@
+[
+  {
+    "pythProductName": "Crypto.USDC/USD",
+    "symbol": "USDC"
+  },
+  {
+    "pythProductName": "Crypto.SOL/USD",
+    "symbol": "SOL"
+  },
+  {
+    "pythProductName": "Crypto.SRM/USD",
+    "symbol": "SRM"
+  },
+  {
+    "pythProductName": "Crypto.USDT/USD",
+    "symbol": "USDT"
+  },
+  {
+    "pythProductName": "Crypto.ETH/USD",
+    "symbol": "ETH"
+  },
+  {
+    "pythProductName": "Crypto.LUNA/USD",
+    "symbol": "LUNA"
+  },
+  {
+    "pythProductName": "Crypto.STSOL/USD",
+    "symbol": "stSOL"
+  },
+  {
+    "pythProductName": "Crypto.MSOL/USD",
+    "symbol": "mSOL"
+  },
+  {
+    "pythProductName": "Crypto.BTC/USD",
+    "symbol": "BTC"
+  },
+  {
+    "pythProductName": "Crypto.FTT/USD",
+    "symbol": "soFTT"
+  },
+  {
+    "pythProductName": "Crypto.UST/USD",
+    "symbol": "UST"
+  }
+]

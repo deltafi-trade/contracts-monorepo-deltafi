@@ -1,0 +1,15 @@
+{
+  "config": "5fb9KKiX4unmeq2F2ZjvNahc38AALL7dDQuPanDNKRt1",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "deltafiToken": "Cajir4DbVH8Gyj8E9EjuvxmrZj9ihZYVYZJ7RNH5uBQs",
+  "network": "mainnet-beta",
+  "pool_SRM-USDC_SRM": "EKXhroQvXkFVAhjLvKt2CVcHMN5yAGfxEhsPij9CTWG9",
+  "pool_SRM-USDC_USDC": "ErfrNgdakpBCfnMtjQ8y6s3E4tHXaCrgw96G2Ee2gUSG",
+  "pool_SRM-USDC_authority": "9XbbKwBR4ny4P6MyEVc28XpWuVopPwhqyeetxsmx2v1v",
+  "pool_SRM-USDC_swap": "GxPJ6pcf1jXKfA2qHbwJG8rDsfQ3xGidrsebqiL6diBg",
+  "pool_SRM-USDC_mint": "DGepQvYSGKP49mEk2P9dtTLKkqnjZ9Qg6fb4f9r9SSZ2",
+  "pool_SRM-USDC_token": "AmBamE89XLtF2ta12bYZajKhKjE4YXzg5rPAiF5J1SWL",
+  "pool_SRM-USDC_decimals": 6,
+  "farm_pool_SRM-USDC": "64gEGuaACTLkzGFxYnhknj5ZLAURDvf8ut2jbjgJbQun",
+  "farm_pool_SRM-USDC_reserve_token": "5dc65ErpSiHzbmhjdDcJnR4yUiBffYz5iPt1X27u8oh"
+}

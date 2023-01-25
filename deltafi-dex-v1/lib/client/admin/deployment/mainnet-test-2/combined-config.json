@@ -1,0 +1,121 @@
+{
+  "network": "mainnet-beta",
+  "adminKeyName": "mainnet-test-admin",
+  "payerKeyName": "mainnet-test-payer",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "swapProgramId": "2fY2b61e6qCjLz8Jv6GbfuBRVi1wdk9VJDKSmY1p9fj9",
+  "fees": {
+    "adminTradeFeeNumerator": 1,
+    "adminTradeFeeDenominator": 1,
+    "adminWithdrawFeeNumerator": 1,
+    "adminWithdrawFeeDenominator": 1,
+    "tradeFeeNumerator": 1,
+    "tradeFeeDenominator": 1000,
+    "withdrawFeeNumerator": 1,
+    "withdrawFeeDenominator": 1000
+  },
+  "swapPools": [
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "USDC",
+      "name": "SOL-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "soLINK",
+      "tokenB": "USDT",
+      "name": "soLINK-USDT",
+      "oraclePriority": "SERUM_ONLY"
+    }
+  ],
+  "stableSwapPools": [
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000",
+      "tokenA": "USDC",
+      "tokenB": "USDT",
+      "name": "USDC-USDT"
+    }
+  ],
+  "tokens": {
+    "SOL": {
+      "mint": "So11111111111111111111111111111111111111112",
+      "decimals": 9,
+      "rewards": {
+        "decimals": 9,
+        "tradeRewardNumerator": 80,
+        "tradeRewardDenominator": 1000,
+        "tradeRewardCap": 100000000
+      },
+      "farmRewards": {
+        "aprNumerator": 160,
+        "aprDenominator": 10000
+      },
+      "symbol": "SOL",
+      "pyth": {
+        "productName": "Crypto.SOL/USD",
+        "price": "H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG",
+        "product": "ALP8SdU9oARYVLgLR7LrqMNCYBnhtnQz1cj6bwgwQmgj"
+      }
+    },
+    "USDC": {
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "decimals": 6,
+      "rewards": {
+        "decimals": 6,
+        "tradeRewardNumerator": 1,
+        "tradeRewardDenominator": 1000,
+        "tradeRewardCap": 100000000
+      },
+      "farmRewards": {
+        "aprNumerator": 2,
+        "aprDenominator": 10
+      },
+      "symbol": "USDC",
+      "pyth": {
+        "productName": "Crypto.USDC/USD",
+        "price": "Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD",
+        "product": "8GWTTbNiXdmyZREXbjsZBmCRuzdPrW55dnZGDkTRjWvb"
+      }
+    },
+    "soLINK": {
+      "mint": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
+      "decimals": 6,
+      "rewards": {
+        "decimals": 6,
+        "tradeRewardNumerator": 40,
+        "tradeRewardDenominator": 1000,
+        "tradeRewardCap": 100000000
+      },
+      "farmRewards": {
+        "aprNumerator": 80,
+        "aprDenominator": 10
+      },
+      "symbol": "soLINK"
+    },
+    "USDT": {
+      "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "decimals": 6,
+      "rewards": {
+        "decimals": 6,
+        "tradeRewardNumerator": 1,
+        "tradeRewardDenominator": 1000,
+        "tradeRewardCap": 100000000
+      },
+      "farmRewards": {
+        "aprNumerator": 2,
+        "aprDenominator": 10
+      },
+      "symbol": "USDT",
+      "pyth": {
+        "productName": "Crypto.USDT/USD",
+        "price": "3vxLXJqLqF3JG5TCbYycbKWRBbCJQLxQmBGCkyqEEefL",
+        "product": "Av6XyAMJnyi68FdsKSPYgzfXGjYrrt6jcAMwtvzLCqaM"
+      }
+    }
+  }
+}

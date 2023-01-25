@@ -1,0 +1,39 @@
+{
+  "network": "localhost",
+  "adminKeyName": "dev-admin",
+  "payerKeyName": "dev-payer",
+  "deltafiMint": "9zuKduFQR75Qv2YBea9cVufpqUAXSwq3vHiSeDUhF6XR",
+  "swapProgramId": "GTHFXBiyJNtQSuQ3HouWExrDiXEvqjrn5Hwbpe1bFB7U",
+  "swapPools": [
+    {
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "USDC",
+      "name": "SOL-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "SRM",
+      "name": "SOL-SRM",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "SRM",
+      "tokenB": "USDC",
+      "name": "SRM-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    }
+  ],
+  "stableSwapPools": [
+    {
+      "slope": "100000000",
+      "tokenA": "USDC",
+      "tokenB": "USDT",
+      "name": "USDC-USDT",
+      "oraclePriority": "PYTH_ONLY"
+    }
+  ]
+}

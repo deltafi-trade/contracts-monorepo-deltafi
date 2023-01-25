@@ -1,0 +1,17 @@
+{
+  "config": "5hwGxMpQkoAx21aoAvafT3NmAGk1iZTorjoQz3j2SKk6",
+  "deltafiMint": "de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF",
+  "deltafiToken": "J6NXoLLUwywpeDhSVbD2bawigPEmBGczgNq3dTAkA4fu",
+  "network": "mainnet-beta",
+  "adminFeeA": "FhxDrZXQYJRU1z8kxFZst1gnTLdY76WCCp9ckVFyv5Kk",
+  "adminFeeB": "Di7E1vqEu4Y795XmKd4uakhLMxeB9LcDURgGLS2EWvb7",
+  "pool_SOL-USDC_SOL": "Bo76sSu2K8yn9FUkPxPZcLfvwzCbgALRWwvA3bJyFWBA",
+  "pool_SOL-USDC_USDC": "79i9cty3uTgGD4EW9CmrQd2CFfsVPVKHo9w94scpy8kY",
+  "pool_SOL-USDC_authority": "5Anox4Wgu1GpWagkxmLWqy7qTAQeT96TurrfbT84b8kk",
+  "pool_SOL-USDC_swap": "8KTcA3j7U4tMh1jBPbF5tD5uCUiCd1CDcX964iwPcPrg",
+  "pool_SOL-USDC_mint": "8sxLm5bamigCgnZGVEx4WG2EeuaAkj6qYHZH8dJCLuEQ",
+  "pool_SOL-USDC_token": "HCJXFFYjQgrUu5Jx3mzU3HD9hociQehSnZgySvvjyYMo",
+  "pool_SOL-USDC_decimals": 9,
+  "farm_pool_SOL-USDC": "Bqzx8oFD8DQ9tgdrWm5Y6JtyLwdDokMmuRkWy3DuEymM",
+  "farm_pool_SOL-USDC_reserve_token": "2oJbm2Ky48jvLuxp8Q94RFYbL34oBo4oJu77YyDxm6SF"
+}

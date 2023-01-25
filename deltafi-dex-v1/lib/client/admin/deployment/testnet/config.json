@@ -1,0 +1,46 @@
+{
+  "network": "testnet",
+  "adminKeyName": "dev-admin",
+  "payerKeyName": "dev-payer",
+  "swapProgramId": "GTHFXBiyJNtQSuQ3HouWExrDiXEvqjrn5Hwbpe1bFB7U",
+  "deltafiMint": "EkzSXG99ngsVx8SSWCszMYivRXN1SZhhxsWhryzEuHgg",
+  "_account": "J5X8ngk2ztPmbZ6RW2SLtXdFwDBHfVWXKFYFdTDg4crM",
+  "fees": {
+    "adminTradeFeeNumerator": 1,
+    "adminTradeFeeDenominator": 1,
+    "adminWithdrawFeeNumerator": 1,
+    "adminWithdrawFeeDenominator": 1,
+    "tradeFeeNumerator": 1,
+    "tradeFeeDenominator": 1000,
+    "withdrawFeeNumerator": 1,
+    "withdrawFeeDenominator": 1000
+  },
+  "swapPools": [
+    {
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "USDC",
+      "name": "SOL-USDC"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "SRM",
+      "name": "SOL-SRM"
+    },
+    {
+      "slope": "100000000000",
+      "tokenA": "SRM",
+      "tokenB": "USDC",
+      "name": "SRM-USDC"
+    }
+  ],
+  "stableSwapPools": [
+    {
+      "slope": "100000000",
+      "tokenA": "USDC",
+      "tokenB": "USDT",
+      "name": "USDC-USDT"
+    }
+  ]
+}

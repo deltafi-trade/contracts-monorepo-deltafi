@@ -1,0 +1,158 @@
+[
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 2,
+      "aprDenominator": 10
+    },
+    "symbol": "USDC"
+  },
+  {
+    "rewards": {
+      "decimals": 9,
+      "tradeRewardNumerator": 80,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 160,
+      "aprDenominator": 10000
+    },
+    "symbol": "SOL"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 2,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 4,
+      "aprDenominator": 10
+    },
+    "symbol": "SRM"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 2,
+      "aprDenominator": 10
+    },
+    "symbol": "USDT"
+  },
+  {
+    "rewards": {
+      "decimals": 8,
+      "tradeRewardNumerator": 3000,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 6000,
+      "aprDenominator": 1000
+    },
+    "symbol": "ETH"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 90,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 180,
+      "aprDenominator": 10
+    },
+    "symbol": "LUNA"
+  },
+  {
+    "rewards": {
+      "decimals": 9,
+      "tradeRewardNumerator": 80,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 160,
+      "aprDenominator": 10000
+    },
+    "symbol": "stSOL"
+  },
+  {
+    "rewards": {
+      "decimals": 9,
+      "tradeRewardNumerator": 80,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 160,
+      "aprDenominator": 10000
+    },
+    "symbol": "mSOL"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 40000,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 80000,
+      "aprDenominator": 10
+    },
+    "symbol": "BTC"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 40,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 80,
+      "aprDenominator": 10
+    },
+    "symbol": "soFTT"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 1,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 2,
+      "aprDenominator": 10
+    },
+    "symbol": "UST"
+  },
+  {
+    "rewards": {
+      "decimals": 6,
+      "tradeRewardNumerator": 40,
+      "tradeRewardDenominator": 1000,
+      "tradeRewardCap": 100000000
+    },
+    "farmRewards": {
+      "aprNumerator": 80,
+      "aprDenominator": 10
+    },
+    "symbol": "soLINK"
+  }
+]

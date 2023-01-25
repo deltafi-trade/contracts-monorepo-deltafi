@@ -1,0 +1,7 @@
+# Seeds for failure cases proptest has generated in the past. It is
+# automatically read and these particular cases re-run before any
+# novel cases are generated.
+#
+# It is recommended to check this file in to source control so that
+# everyone who runs the test benefits from these saved cases.
+cc 71530cad35dc7dc30e0ceedab1ffa785cefde712ed3e16da420431ac4d5dfd29 # shrinks to (multiplier, base_balance, quote_balance, total_supply, base_target,  quote_target, base_reserve, quote_reserve) = (One, 61141, 61141, 0, Decimal(4000000000), Decimal(7000000000), Decimal(306000000000), Decimal(2963000000000))

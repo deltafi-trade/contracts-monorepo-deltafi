@@ -1,0 +1,14 @@
+{
+  "config": "57pCgFkJVdkeHACWkz61kwBibcTct2NkCKcTiQaqgFqq",
+  "deltafiMint": "9zuKduFQR75Qv2YBea9cVufpqUAXSwq3vHiSeDUhF6XR",
+  "deltafiToken": "3Xy1hdxWXrzXf9P7Nt2RR6P1ufN2JbisLmwAL22Tkgpf",
+  "network": "localhost",
+  "pool_SOL-SRM_SOL": "CxSWrxNUSkfHhV7CpatiE93z41TEch9PWvSk5SsFGMwh",
+  "pool_SOL-SRM_SRM": "ENbX8nSGrowHcGvYPHqavHwJaNyT9pGZLxvjqveMzuTt",
+  "pool_SOL-SRM_authority": "EvSdEUsCcQevj7UtkD5iV3SxLSCM9RcqdM4nboUAVwoj",
+  "pool_SOL-SRM_swap": "54STkgY6NyUPFFmy7uRfdfSBYA5XxVVyGaZdtGfUiSXJ",
+  "pool_SOL-SRM_mint": "6c1LLXn1tMTHs9nLg6rjuMdEEFn973DLyhAizkYsTf6t",
+  "pool_SOL-SRM_token": "Env6HBnCPyp8wqAfbHZxiiVw5aHX7iExVq3Vg9kuBy9X",
+  "farm_pool_SOL-SRM": "CLMg9NEhttNePbDoFnRqZCPveB9KjT6qXnUJxyKo9Fs5",
+  "farm_pool_SOL-SRM_reserve_token": "FNo7hLkVkgqXqkTtomjQwE22CFEJakF7FBzn7ygZEDmB"
+}

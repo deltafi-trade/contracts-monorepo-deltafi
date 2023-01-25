@@ -1,0 +1,44 @@
+{
+  "network": "mainnet-beta",
+  "adminKeyName": "mainnet-test-admin",
+  "payerKeyName": "mainnet-test-payer",
+  "deltafiMint": "tstpB7nAg8n7ynm5C5mfRkQ73Q8dSTcyxkjNvR2Bspt",
+  "swapProgramId": "2fY2b61e6qCjLz8Jv6GbfuBRVi1wdk9VJDKSmY1p9fj9",
+  "fees": {
+    "adminTradeFeeNumerator": 1,
+    "adminTradeFeeDenominator": 1,
+    "adminWithdrawFeeNumerator": 1,
+    "adminWithdrawFeeDenominator": 1,
+    "tradeFeeNumerator": 1,
+    "tradeFeeDenominator": 1000,
+    "withdrawFeeNumerator": 1,
+    "withdrawFeeDenominator": 1000
+  },
+  "swapPools": [
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "SOL",
+      "tokenB": "USDC",
+      "name": "SOL-USDC",
+      "oraclePriority": "PYTH_ONLY"
+    },
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000000",
+      "tokenA": "soLINK",
+      "tokenB": "USDT",
+      "name": "soLINK-USDT",
+      "oraclePriority": "SERUM_ONLY"
+    }
+  ],
+  "stableSwapPools": [
+    {
+      "swapOutLimitPercentage": 10,
+      "slope": "100000000",
+      "tokenA": "USDC",
+      "tokenB": "USDT",
+      "name": "USDC-USDT"
+    }
+  ]
+}
